@@ -1,0 +1,61 @@
+country,region,population_thousands,gdp_per_capita,life_expectancy,clean_water_pct,literacy_rate,infant_mortality
+Bolivia,Latin America,12000,3500,63.6,,93.0,26
+Indonesia,East Asia & Pacific,277000,4300,67.6,90,96.0,20
+Morocco,Middle East & North Africa,37000,3700,73.9,87,74.0,18
+Pakistan,South Asia,231000,1500,64.5,91,58.0,52
+Myanmar,south asia,55000,1200,63.0,81,76.0,35
+China,East Asia & Pacific,1412000,12500,76.1,96,97.0,6
+Algeria,Middle East & North Africa,45000,3900,73.8,93,81.0,20
+Jordan,Middle East & North Africa,11000,4300,74.5,99,98.0,14
+Argentina,Latin America,46000,10600,75.4,100,99.0,9
+Cambodia,South Asia,17000,"1,800",66.0,78,81.0,22
+Rwanda,Sub-Saharan Africa,14000,850,55.5,62,73.0,28
+Guatemala,Latin America,18000,"5,100",69.2,93,82.0,22
+Mexico,Latin America,129000,10800,70.2,99,95.0,12
+Poland,Europe,38000,18000,76.5,100,99.0,4
+Brazil,Latin America,216000,9000,72.8,97,93.0,13
+Switzerland,Europe,8800,92000,83.4,100,99.0,3
+Tanzania,Sub-Saharan Africa,65000,1200,55.7,61,78.0,36
+Japan,East Asia & Pacific,125000,34500,84.5,99,99.0,2
+Egypt,Middle East & North Africa,104000,4200,70.2,98,73.0,17
+Kenya,Sub-Saharan Africa,55000,2100,58.0,63,82.0,31
+New Zealand,East Asia & Pacific,5200,42000,82.1,100,99.0,4
+India,South Asia,1428000,2600,67.2,93,74.0,28
+Yemen,Middle East & North Africa,33000,700,58.0,55,,45
+South Korea,East Asia & Pacific,52000,33000,83.7,98,98.0,3
+United Kingdom,Europe,67000,46000,80.7,100,99.0,4
+Philippines,EAST ASIA & PACIFIC,117000,3600,68.2,94,96.0,22
+Nigeria,Sub-Saharan Africa,220000,2200,54.3,72,62.0,74
+Spain,Europe,48000,30000,83.0,100,98.0,3
+Vietnam,East Asia & Pacific,99000,4100,73.6,95,95.0,16
+Saudi Arabia,Middle East & North Africa,36000,23000,76.9,100,97.0,6
+Maldives,South Asia,520,11500,76.2,99,98.0,7
+Australia,East Asia & Pacific,26000,55000,83.0,100,99.0,3
+Haiti,Latin America,11500,1400,55.2,65,62.0,59
+Thailand,East Asia & Pacific,72000,7200,74.7,,94.0,8
+Norway,Europe,5500,80000,83.2,100,99.0,2
+Bangladesh,South Asia,173000,2700,69.0,98,75.0,24
+Chile,Latin America,19500,15400,78.9,100,97.0,6
+France,Europe,68000,43000,82.0,100,99.0,3
+Colombia,Latin America,52000,6200,72.4,97,95.0,12
+Iraq,Middle East & North Africa,43000,5000,68.0,86,85.0,22
+Nepal,South Asia,30000,1300,68.4,89,68.0,26
+Romania,Europe,19000,15000,74.2,100,99.0,6
+Tunisia,Middle East & North Africa,12000,3700,75.5,97,82.0,14
+Democratic Republic of Congo,Sub-Saharan Africa,102000,580,50.8,46,77.0,68
+Malaysia,East Asia & Pacific,34000,12500,74.3,97,95.0,7
+Ecuador,Latin America,18000,6100,73.6,94,93.0,13
+Uganda,sub-saharan africa,48000,900,53.0,49,77.0,43
+Peru,Latin America,34000,7000,73.7,92,94.0,12
+Iran,Middle East & North Africa,88000,4700,73.5,96,86.0,12
+Italy,Europe,59000,35000,82.9,100,99.0,3
+Mozambique,SUB-SAHARAN AFRICA,33000,500,49.5,54,,63
+United Arab Emirates,Middle East & North Africa,10000,44000,78.0,100,98.0,5
+Mali,Sub-Saharan Africa,22000,900,48.2,42,36.0,86
+Sri Lanka,South Asia,22000,3800,74.5,92,92.0,6
+Afghanistan,South Asia,41000,500,52.0,55,,60
+Bhutan,South Asia,780,3600,71.8,97,67.0,25
+Sweden,Europe,10500,56000,82.8,100,99.0,2
+Ethiopia,Sub-Saharan Africa,126000,1100,53.5,57,,38
+Ghana,Sub-Saharan Africa,33000,2400,58.8,81,80.0,35
+Germany,Europe,84000,51000,80.6,100,99.0,3
