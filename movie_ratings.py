@@ -36,10 +36,12 @@ def load_data(file_path):
 def clean_data(df):
     """Clean the data: missing values, data types, and standardization."""
     # Handle missing values
+    print(f"Number of rows before cleaning: {len(df)}")
     df['times_watched'] = df['times_watched'].fillna(1)  # Assume 1 if missing, won't affect rating analysis in this case
     df['would_recommend'] = df['would_recommend'].str.strip().str.lower().map({'yes': 1, 'no': 0}) # Convert to binary
-    df = df.dropna()
-    
+    df = df.dropna(subset=['rating_1_5'])  # Drop rows where rating is missing, as it's crucial for analysis
+    print(f"Number of rows after cleaning: {len(df)}")
+
     # Ensure correct data types, for release_year: convert words to numbers if needed, for ratings: ensure they are numeric
     df['release_year'] = df['release_year'].replace({'two thousand twelve': 2012}).astype(int)
     
@@ -69,6 +71,8 @@ def analyze_data(df):
     avg_rating_by_genre = df.groupby('genre')['rating_1_5'].mean()
     print("Average rating by genre:")
     print(avg_rating_by_genre)
+    print("Number of movie ratings in each genre:")
+    print(df.groupby('genre').size())
     
     # Correlation between would_recommend and ratings
     correlation = df['would_recommend'].corr(df['rating_1_5'])
